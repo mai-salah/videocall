@@ -1,0 +1,1 @@
+python C:\label_wav.py --graph=/tmp/conv_actions_frozen.pb --labels=/tmp/speech_commands_train/conv_labels.txt --wav=/tmp/test_data/yes/edited.wav
